@@ -12,17 +12,6 @@ Building @ ObjectBrain
 
 ---
 
-## About Me
-
--  Founder of ObjectBrain
-- Building Object Intelligence (OI)
-- Developing ALM, Adaptive Learning Model
-- Focused on real time, multimodal intelligence systems
-- Interested in AI, system architecture, autonomous agents, and future computing
-- 📍 Bhubaneswar, India
-
----
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
