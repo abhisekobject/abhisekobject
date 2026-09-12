@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Abhisek 👋</h1>
 
 <h3 align="center">
-Turning crazy ideas into things that work.
+~ Turning crazy ideas into things that work ~
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Turning crazy ideas into things that work.
 </p>
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
