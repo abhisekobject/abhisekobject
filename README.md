@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abhisek 👋</h1>
+<h1 align="center">Hey, I'm Abhisek</h1>
 
 <h3 align="center">
 ~ Turning crazy ideas into things that work ~
