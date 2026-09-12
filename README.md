@@ -26,22 +26,3 @@ Building @ ObjectBrain
 </p>
 
 ---
-
-
-## Connect :)
-
-<p>
-  <a href="https://github.com/abhisekobject">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://linkedin.com/in/abhisekobject">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://objectbrain.com">
-    <img src="https://www.objectbrain.com/logo.png" height="34px">
-  </a>
-</p>
-
----
