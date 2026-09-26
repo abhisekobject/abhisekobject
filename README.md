@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://objectbrain.com">ObjectBrain</a> •
-  <a href="https://github.com/abhisekobject">GitHub</a> •
   <a href="https://linkedin.com/in/abhisekobject">LinkedIn</a> •
   <a href="https://instagram.com/abhisek.object">Instagram</a>
 </p>
